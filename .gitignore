@@ -131,3 +131,6 @@ dmypy.json
 .pyre/
 
 .idea/
+image_processing_folder/*.JPG
+image_processing_folder/*.jpg
+image_processing_folder/*.jpeg
